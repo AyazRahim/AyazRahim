@@ -55,5 +55,5 @@ I specialize in designing **highly available, secure, and automated systems** wi
 ---
 
 ## ✨ Fun Fact  
-> 💡 "Automate everything that can be automated – that's true DevOps power!" ⚡
-> Just Automate
+> 💡 "Automate everything that can be automated – Just Automate!" ⚡
+
