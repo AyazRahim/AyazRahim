@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayaz Rahim  
 
-🚀 **DevOps Engineer** | Infrastructure Automation Expert & Make Sure Your Business Application Run and Serve.  
+🚀 **DevOps Engineer** | Infrastructure Automation Expert 
 
 ---
 
