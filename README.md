@@ -5,7 +5,7 @@
 ---
 
 ## 🔧 About Me  
-I’m a **DevOps Engineer** with hands-on experience in building, automating, and managing scalable cloud infrastructure and CI/CD pipelines.  
+I’m Proficient & Result-Driven **DevOps Engineer** with hands-on experience in building, automating, and managing scalable cloud infrastructure and CI/CD pipelines.  
 I specialize in designing **highly available, secure, and automated systems** with modern DevOps practices.  
 
 ---
