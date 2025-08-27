@@ -13,42 +13,27 @@ I specialize in designing **highly available, secure, and automated systems** wi
 ## 🛠️ Tech Stack & Tools  
 
 - ☁️ **Cloud & Infrastructure**  
-  - AWS (EC2, ECS, EKS, RDS, S3, VPC, IAM)  
-  - Terraform | Ansible  
-  - Docker | Kubernetes | Helm  
+  ![AWS](https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif)  
+  ![Terraform](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)  
+  ![Ansible](https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif)  
+
+- 🐳 **Containers & Orchestration**  
+  ![Docker](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)  
+  ![Kubernetes](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)  
+  ![Helm](https://media.giphy.com/media/1AgViXhq0ZzOZyY0Uh/giphy.gif)  
 
 - ⚙️ **Automation & Scripting**  
-  - Bash | Python  
-  - Infrastructure as Code (IaC)  
-  - Monitoring & Logging  
+  ![Bash](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
+  ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)  
 
 - 🔄 **CI/CD & Version Control**  
-  - Git | GitHub Actions | GitLab CI | Jenkins  
-  - ArgoCD (GitOps)  
+  ![Git](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)  
+  ![GitHub Actions](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)  
+  ![GitLab CI](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
+  ![Jenkins](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)  
 
 - 🌐 **Servers & Reverse Proxy**  
-  - Nginx | Apache  
-
----
-
-## 📂 Featured Projects  
-
-### 🚀 DevOps | Cloud Infrastructure
-- [Terraform AWS EKS Setup](https://github.com/hashicorp/terraform-aws-eks) – Sample Terraform EKS cluster automation  
-- [Ansible AWS Playbooks](https://github.com/ansible/ansible-examples) – Infrastructure automation with Ansible  
-
-### 🐳 Docker | Kubernetes
-- [Docker Sample Apps](https://github.com/docker/getting-started) – Dockerized applications and tutorials  
-- [Kubernetes Microservices Demo](https://github.com/GoogleCloudPlatform/microservices-demo) – Kubernetes-based microservices reference  
-
-### ⚡ CI/CD Pipelines
-- [GitHub Actions Workflows](https://github.com/actions/starter-workflows) – Reusable GitHub Actions workflows  
-- [GitLab CI/CD Examples](https://gitlab.com/gitlab-examples) – CI/CD pipelines for various stacks  
-- [Jenkins Pipeline Examples](https://github.com/jenkinsci/pipeline-examples) – Declarative and scripted Jenkins pipelines  
-
-### 🖥️ Scripting
-- [Bash Scripting Examples](https://github.com/dylanaraps/pure-bash-bible) – Useful bash scripting snippets  
-- [Python Automation](https://github.com/automatetheboringstuff/automate-the-boring-stuff) – Python scripts for automation  
+  ![Nginx](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
 ---
 
@@ -59,9 +44,6 @@ I specialize in designing **highly available, secure, and automated systems** wi
 
 ---
 
-## 🌐 Connect With Me  
+## ✨ Fun Fact  
+> 💡 "Automate everything that can be automated – that's true DevOps power!" ⚡  
 
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📝 [Portfolio/Blog](https://yourwebsite.com)  
-
----
