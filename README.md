@@ -12,28 +12,28 @@ I specialize in designing **highly available, secure, and automated systems** wi
 
 ## 🛠️ Tech Stack & Tools  
 
-- ☁️ **Cloud & Infrastructure**  
-  ![AWS](https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif)  
-  ![Terraform](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)  
-  ![Ansible](https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif)  
+### ☁️ Cloud & Infrastructure  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="50" height="50"/>  
 
-- 🐳 **Containers & Orchestration**  
-  ![Docker](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)  
-  ![Kubernetes](https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif)  
-  ![Helm](https://media.giphy.com/media/1AgViXhq0ZzOZyY0Uh/giphy.gif)  
+### 🐳 Containers & Orchestration  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>  
+<img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/>  
 
-- ⚙️ **Automation & Scripting**  
-  ![Bash](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
-  ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)  
+### ⚙️ Automation & Scripting  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
 
-- 🔄 **CI/CD & Version Control**  
-  ![Git](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)  
-  ![GitHub Actions](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)  
-  ![GitLab CI](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
-  ![Jenkins](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)  
+### 🔄 CI/CD & Version Control  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>  
+<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50"/>  
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI" width="50" height="50"/>  
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="50" height="50"/>  
 
-- 🌐 **Servers & Reverse Proxy**  
-  ![Nginx](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
+### 🌐 Servers & Reverse Proxy  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="70" height="50"/>  
 
 ---
 
@@ -46,4 +46,3 @@ I specialize in designing **highly available, secure, and automated systems** wi
 
 ## ✨ Fun Fact  
 > 💡 "Automate everything that can be automated – that's true DevOps power!" ⚡  
-
