@@ -1,59 +1,25 @@
-# 👋 Hi, I'm Ayaz Rahim  
+# Hi there 👋  
+I'm **Ayaz Rahim** — A **DevOps Engineer** passionate about **automation, cloud-native technologies, and building scalable infrastructures**.
 
-🚀 **DevOps Engineer** | Infrastructure Automation Expert 
 
----
+# 💫 About Me:
+## 🔥 About Me  <br><br>🚩 **I’m currently working on**  <br>- Automating infrastructure with **Terraform & Ansible**  <br>- Building CI/CD pipelines using **GitHub Actions, Jenkins & GitLab CI**  <br>- Deploying containerized apps with **Docker & Kubernetes (EKS, ECS, Fargate)**  <br><br>👯 **I’m looking to collaborate on**  <br>- Open-source **DevOps & Cloud projects**  <br>- Kubernetes-based **microservices deployments**  <br>- Infrastructure as Code best practices  <br><br>🤝 **I’m looking for help with**  <br>- Kubernetes security & service mesh (Istio/Linkerd)  <br><br>🌱 **I’m currently learning**  <br>- **Advanced industrial DevOps practices**  <br>- **Optimizing serverless architectures** with AWS Lambda & event-driven design  <br> <br><br>💬 **Ask me about**  <br>- Cloud automation (AWS, Terraform, Ansible)  <br>- CI/CD pipelines & GitOps practices  <br>- Docker, Kubernetes, and microservice deployments  <br><br>⚡ **Fun fact**  <br>If I repeat a task twice, I’ll script it the third time! ⚙️  <br>
 
-## 🔧 About Me  
-I’m proficient & result-driven **DevOps Engineer** with hands-on experience in building, automating, and managing scalable cloud infrastructure and CI/CD pipelines.  
-I specialize in designing **highly available, secure, and automated systems** with modern DevOps practices.  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayaz Rahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayazrahim999@gmail.com) 
 
-## 🛠️ Tech Stack & Tools  
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyazRahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AyazRahim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyazRahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ☁️ Cloud & Infrastructure  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="50" height="50"/>
-</p>
-
-### 🐳 Containers & Orchestration  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/>
-</p>
-
-### ⚙️ Automation & Scripting  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</p>
-
-### 🔄 CI/CD & Version Control  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50"/>
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI" width="50" height="50"/>
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" width="50" height="50"/>
-</p>
-
-### 🌐 Servers & Reverse Proxy  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="70" height="50"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AyazRahim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AyazRahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayazrahim&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazrahim&layout=compact&theme=tokyonight)  
-
----
-
-## ✨ Fun Fact  
-> 💡 "Automate everything that can be automated – Just Automate!" ⚡
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
