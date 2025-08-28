@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Ayaz Rahim** — A **DevOps Engineer** Proficient and Result-Driven about **automation, cloud-native technologies, and building scalable infrastructures**.
+I'm **Ayaz Rahim** — A **DevOps Engineer** Proficient and Result-Driven in **automation, cloud-native technologies, and building scalable infrastructures**.
 
 
 # 💫 About Me:
