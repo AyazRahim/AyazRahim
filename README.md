@@ -1,3 +1,4 @@
+```markdown
 <img src="./banner.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ayaz Rahim</h1>
@@ -5,7 +6,7 @@
 <h3 align="center">
   <span style="font-size:1.25em;"><strong>DevOps Engineer</strong></span> |
   Cloud Infrastructure, Automation, CI/CD & DevSecOps | Kubernetes | AWS | Azure | Terraform | GitOps
-</h3>  
+</h3>
 
 <p align="center">
 Building secure, scalable, and cloud-native platforms through automation, GitOps, and modern DevSecOps practices.
@@ -13,6 +14,18 @@ Building secure, scalable, and cloud-native platforms through automation, GitOps
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyazRahim&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ayaz-rahim">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ayazrahim.engg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -100,7 +113,7 @@ Building secure, scalable, and cloud-native platforms through automation, GitOps
 
 ## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyazRahim\&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyazRahim&theme=github-dark)
 
 ---
 
@@ -113,22 +126,6 @@ Building secure, scalable, and cloud-native platforms through automation, GitOps
 * Container Security & Supply Chain Security
 * Platform Engineering
 * Cloud Native Security
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/ayaz-rahim">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ayazrahim.engg@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
@@ -151,3 +148,4 @@ Building secure, scalable, and cloud-native platforms through automation, GitOps
 ---
 
 ⭐ If you find my repositories useful, feel free to star them and connect with me.
+```
