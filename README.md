@@ -1,4 +1,4 @@
-```markdown
+
 <img src="./banner.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ayaz Rahim</h1>
