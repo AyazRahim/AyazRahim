@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ayaz Rahim</h1>
 
 <h3 align="center">
-DevOps Engineer | DevSecOps Enthusiast | Kubernetes | AWS | Azure | Terraform | GitOps
-</h3>
+DevOps Engineer | Cloud Infrastructure, Automation, CI/CD & DevSecOps | Kubernetes | AWS | Azure | Terraform | GitOps
+</h3>  
 
 <p align="center">
 Building secure, scalable, and cloud-native platforms through automation, GitOps, and modern DevSecOps practices.
