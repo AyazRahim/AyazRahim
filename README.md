@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # Hi there 👋 I'm Ayaz Rahim
 
 ## DevOps Engineer | Kubernetes | AWS | Azure
