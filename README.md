@@ -64,3 +64,9 @@ https://linkedin.com/in/ayaz-rahim
 
 Email:
 ayazrahim.engg@gmail.com
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyazRahim&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyazRahim&layout=compact)
