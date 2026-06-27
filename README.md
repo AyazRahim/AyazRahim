@@ -18,7 +18,7 @@ Building secure, scalable, and cloud-native platforms through automation, GitOps
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ayaz-rahim">
+<a href="https://linkedin.com/in/ayazrahim">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
 </a>
 
